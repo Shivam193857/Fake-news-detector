@@ -37,7 +37,7 @@ Fake news has become a major concern in the digital age. This project offers an 
 
 ## 🗃️ Dataset
 
-- Source: [Kaggle - Fake News Dataset by William Lifferth](https://www.kaggle.com/c/fake-news/data)
+- Source: [Kaggle - Fake News Dataset by William Lifferth]
 - Format: CSV
 - Labels: `real`, `fake`
 - Preprocessing includes:
@@ -68,13 +68,14 @@ Fake news has become a major concern in the digital age. This project offers an 
 3. To install the requirements use following commands--->
    pip install -r requirements.txt
 4. After installing run the app.py--->
-   streamlit run app.py
+   streamlit run app.py ||
    Paste a news article in the input box and hit Predict!
 5. You can kill the process by ctrl+c in terminal.
 
 ## 📸 Screenshots
 
-> *(![image](image.png))*
+> <img width="672" height="541" alt="image" src="https://github.com/user-attachments/assets/b0a26a45-738c-44ce-a8bf-f23c9c4b85d1" />
+
 
 ---
 
@@ -85,7 +86,6 @@ Fake news has become a major concern in the digital age. This project offers an 
 - Recall
 - F1-Score
 - Confusion Matrix
-- ROC Curve & AUC
 
 ---
 
